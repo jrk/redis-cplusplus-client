@@ -1,6 +1,5 @@
-# redis-cpp-client
+# A C++ client for Redis 
 
-- A C++ client for Redis 
 - This client has no external dependencies 
 - It has been tested with g++ on Mac OS X 10.5 and Linux
 - It uses anet from Redis itself
